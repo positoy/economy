@@ -1,9 +1,19 @@
 <img width="911" alt="image" src="https://user-images.githubusercontent.com/7664099/228398173-aeb95e18-e5f2-4a00-9eac-d86e750f7343.png">
 
+
 # 인플레이션
 경기 침체/과열의 지표. FED 2%를 목표로 한다.
 - [CPI YoY](https://www.investing.com/economic-calendar/cpi-733)
 - [Core CPI YoY](https://www.investing.com/economic-calendar/core-cpi-736)
+
+7가지 요인이 영향을 미친다.
+- 경제성장률
+- 임금인플레이션
+- 실업률
+- 원자재가격
+- 환율
+- 주택가격
+- 소비자신뢰
 
 # 단기금리(정책금리)
 인플레이션을 조정하기 위한 정책금리. 목표인플레이션(2%)과 예상인플레이션을 고려하여 과열되면 올리고 침체되면 내린다.
