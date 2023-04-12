@@ -2,7 +2,7 @@
 
 # 금리이해
 - https://www.youtube.com/watch?v=PKqr9IUcEQ4&t=3s
-
+- [미국장단기금리차 확인](https://kr.investing.com/rates-bonds/usa-government-bonds?maturity_from=40&maturity_to=290)
 # 국고채
 
 - [국고채수익률](https://www.daishin.com/g.ds?m=1022&p=1199&v=784)
