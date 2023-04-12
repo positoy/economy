@@ -36,6 +36,7 @@
 
 
 # 회사채
+(개별기업) 채권금리 = 동일만기 국채금리 + 발행기업(국가) 신용도에 따른 가산금리
 - [회사채평가등급](https://www.lotteshoppingir.com/company/popup_grade2.html)
 - [회사채평가등급검색](https://www.nicerating.com/disclosure/gradeSearch.do)
 - [연간부도율](https://www.nicerating.com/disclosure/yearDefaultRates.do)
