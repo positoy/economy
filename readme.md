@@ -12,7 +12,7 @@
 # 신용과 국채
 세계 3대 신용평가사(Moodys, Fitch, S&P)는 국가와 기업의 신용을 평가한다.
 각 국가에 속한 기업은 일반적으로 국가의 신용등급을 뛰어넘을 수 없다. [나라별 신용등급](https://tradingeconomics.com/country-list/rating)
-따라서 각 국가의 채권시장은 해당 국가의 국채를 기준으로 삼게 된다.
+따라서 각 국가의 채권시장은 해당 국가의 국채를 기준으로 삼게 된다. (국채 > 준정부채 > 우량회사채 > 이머징마켓채권 > 하이일드채권)
 
 ![image](https://user-images.githubusercontent.com/7664099/231612272-ab439d23-7ebd-4a81-86c0-31bb98366ee6.png)
 
