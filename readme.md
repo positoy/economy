@@ -65,3 +65,7 @@ BB 등급 이하의 채권을 정크본드/하이일드 채권이라고 한다.
 - [회사채평가등급검색](https://www.nicerating.com/disclosure/gradeSearch.do)
 - [연간부도율](https://www.nicerating.com/disclosure/yearDefaultRates.do)
 - [금리스프레드](https://www.nicerating.com/disclosure/gradedRates.do)
+
+
+# 기타
+- [하이일드 가산금리(spread)](https://fred.stlouisfed.org/series/BAMLH0A0HYM2) : 경기악화지표
