@@ -74,3 +74,4 @@ BB 등급 이하의 채권을 정크본드/하이일드 채권이라고 한다.
 # 기타
 - [하이일드 가산금리(spread)](https://fred.stlouisfed.org/series/BAMLH0A0HYM2) : 경기악화지표
   경기가 악화되면 국채수요는 증가하고 국채 금리는 감소한다. 반면, 하이일드채권 수요는 감소하고 위험프리미엄(가산금리)는 증가한다.
+- [한국경기순환시계](https://kosis.kr/visual/bcc/index/index.do?mb=N)
